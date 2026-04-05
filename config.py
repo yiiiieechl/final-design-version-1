@@ -9,7 +9,7 @@ MODEL_NAME = "yolov8m.pt"
 DATA_PATH = r"E:\final design\dataset\data.yaml"
 
 # 训练参数
-EPOCHS = 200
+EPOCHS = 70
 IMG_SIZE = 640
 BATCH_SIZE = 4
 DEVICE = 0
@@ -29,8 +29,8 @@ FLIPUD = 0.0
 FLIPLR = 0.5
 
 # 输出路径
-PROJECT_NAME = "runs_smoke_3"
-RUN_NAME = "yolov8_smoke_v3"
+PROJECT_NAME = "runs_smoke_4"
+RUN_NAME = "yolov8_smoke_v4"
 EXIST_OK = True
 
 
@@ -55,7 +55,7 @@ IMAGE_PATH = r"E:\final design\dataset\images\test\abc193.jpg"
 # ========================
 # 视频路径
 # ========================
-VIDEO_PATH = r"E:\final design\video\cigerrate.mp4"
+VIDEO_PATH = r"E:\final design\video\smoking2.mp4"
 
 # ========================
 # 时间窗口参数
