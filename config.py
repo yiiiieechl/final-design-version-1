@@ -39,7 +39,7 @@ EXIST_OK = True
 # ========================
 SMOKE_MODEL_PATH = r"E:\final design\runs_smoke_3\yolov8_smoke_v3\weights\best.pt"
 PERSON_MODEL_PATH = "yolov8s.pt"
-
+POSE_MODEL_PATH = "yolov8s-pose.pt"
 # ========================
 # 推理参数
 # ========================
@@ -55,7 +55,7 @@ IMAGE_PATH = r"E:\final design\dataset\images\test\abc193.jpg"
 # ========================
 # 视频路径
 # ========================
-VIDEO_PATH = r"E:\final design\video\smoking2.mp4"
+VIDEO_PATH = r"E:\final design\video\cigerrate.mp4"
 
 # ========================
 # 时间窗口参数
